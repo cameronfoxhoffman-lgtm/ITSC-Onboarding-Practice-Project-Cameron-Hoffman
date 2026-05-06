@@ -1,10 +1,11 @@
 # OCAT - ITSC Internship Project
 
-In this project, you will have the opportunity to explore the basics of web development operations as carried out at the ITSC. You will learn about some of the core technologies we use to build web apps- **React Table**
+In this project, you will have the opportunity to explore the basics of web development operations as carried out at the ITSC. You will learn about some of the core technologies we use to build web apps
 
-- [Main Page](https://react-table.tanstack.com/)
-- [How to Use React Table](https://codehandbook.org/how-to-use-react-table-in-react-web-app/)
-- [react-table's npm page](https://www.npmjs.com/package/react-table)
+- **React Table**
+  - [Main Page](https://react-table.tanstack.com/)
+  - [How to Use React Table](https://codehandbook.org/how-to-use-react-table-in-react-web-app/)
+  - [react-table's npm page](https://www.npmjs.com/package/react-table)
 
 - **Bcrypt**
   - [Hashing Passwords with Node.js and Bcrypt](https://www.abeautifulsite.net/hashing-passwords-with-nodejs-and-bcrypt)
