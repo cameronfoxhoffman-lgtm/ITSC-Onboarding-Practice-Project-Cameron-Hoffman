@@ -34,10 +34,10 @@ Good luck!
 
 At a high-level, every web application is composed of different elements:
 
-- **Front-end**: that's the code the runs on the user's browser. It interfaces with the user's interactions, captures their input and sends it to the application server or the backend.
+- **Front-end**: this code runs on the user's browser. It interfaces with the user's interactions, captures their input and sends it to the application server or the backend.
   - We use React.js to build the user interface. It allows us to combine HTML, CSS, and JavaScript to build UI components and pages.
   - We use libraries and toolkits like Bootstrap and React Bootstrap to make it look nice.
-- **Back-end**: This code runs on the server, it receives the user requests and inputs, processes it, stores it in a database and sends it back to the user when needed.
+- **Back-end**: This code runs on the server, it receives user requests and inputs, processes it, stores it in a database and sends it back to the user when needed.
   - Here we use Node.js and Express to build the server. Node.js is a JavaScript runtime environment that allows us to run JavaScript code outside of the browser. Express is a web application framework for Node.js that allows us to build web applications and APIs.
 - **Database**: This is where the data is stored. It's a collection of tables that store information about the users, the application, and the interactions between them.
   - We can use any type of database here like MS SQL Server, MySQL, or PostgreSQL. We use PostgreSQL because it's open-source and free.
