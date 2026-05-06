@@ -204,7 +204,7 @@ Make sure you have installed the recommended extensions, then see the [Starting 
 - Setup
   - PLEASE ask if you're having trouble setting up your project repository, project board, first branch, or development environment. The mentors are here to help you! We want to make sure you get off to a great start and this part is often the most challenging, so please don't hesitate to come to us immediately with any setup concerns!
 - Hour/Day Policy
-  - If you've been stuck on something for tan hour, ask a fellow intern!
+  - If you've been stuck on something for more than an hour, ask a fellow intern!
   - If you've been stuck on something for a full day, ask a mentor!
 - Process for Getting Unstuck
     1. Search through the available resources in this document (located at the bottom of the page and throughout)
