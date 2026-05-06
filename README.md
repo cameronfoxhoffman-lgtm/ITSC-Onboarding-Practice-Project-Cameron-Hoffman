@@ -1,6 +1,6 @@
 # OCAT - ITSC Internship Project
 
-In this project, you will have the opportunity to explore the basics of web development operations as carried out at the ITSC. You will learn about some of the core technologies we use to build web app- **React Table**
+In this project, you will have the opportunity to explore the basics of web development operations as carried out at the ITSC. You will learn about some of the core technologies we use to build web apps- **React Table**
 
 - [Main Page](https://react-table.tanstack.com/)
 - [How to Use React Table](https://codehandbook.org/how-to-use-react-table-in-react-web-app/)
@@ -23,7 +23,7 @@ In this project, you will have the opportunity to explore the basics of web deve
     - Windows developers should use -> [pgAdmin](https://www.pgadmin.org/download/)
     - Mac developers should use -> [postico](https://eggerapps.at/postico/)osystems such as [React.js](https://reactjs.org/), [Node.js](https://nodejs.org/en/) with the [Express](http://expressjs.com/) Framework, and other libraries and tools. Below, you'll find a comprehensive list of all the technologies used in this project.
 
-This project is a minified system of a the ORAS system, a project used by probation officers to assess the offender's likelihood of recommitting a crime (recidivism) and the factors in an offender's life that are directly related to recidivism (criminogenic needs). You'll be building a user interface to create and review assessments.
+This project is a minified system of the ORAS system, a project used by probation officers to assess the offender's likelihood of recommitting a crime (recidivism) and the factors in an offender's life that are directly related to recidivism (criminogenic needs). You'll be building a user interface to create and review assessments.
 
 Make sure you review the [Guidelines section](#guidelines) to learn about when and how you should seek help.
 
